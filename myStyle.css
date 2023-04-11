@@ -2,8 +2,8 @@ body {
   background-color: powderblue;
 }
 h1 {
-  font-family: Times;
+  font-family: Times, serif;
 }
 p {
-  font-family: "Courier New";
+  font-family: Courier, monospace;
 }
