@@ -1,9 +1,10 @@
 body {
   background-color: powderblue;
+  opacity: 0.6;
 }
 h1 {
-  font-family: Times, serif;
+  font-family: "Times New Roman", Times, serif;
 }
 p {
-  font-family: Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
